@@ -40,7 +40,7 @@ body {
 
 main {
   padding-top: 90px;
-  min-width: 1000px;
+  /*min-width: 1000px;*/
 }
 
 .box {
@@ -59,11 +59,11 @@ main {
 }
 
 .spacecat {
-  top: -90px;
-  left: -90px;
+  top: -100px;
+  left: -100px;
 }
 
 .spacedog {
-  bottom: -120px;
-  right: -60px;
+  bottom: -100px;
+  right: -100px;
 }
